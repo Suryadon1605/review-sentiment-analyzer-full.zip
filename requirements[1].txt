@@ -1,0 +1,4 @@
+Flask>=3.0,<4.0
+transformers>=4.40,<5.0
+torch>=2.2,<3.0
+pymongo>=4.6,<5.0
